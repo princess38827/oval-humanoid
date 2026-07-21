@@ -1,0 +1,19 @@
+{
+  "name": "oval-humanoid",
+  "version": "1.0.0",
+  "description": "Oval Humanoid v1.0 + Guardian Visor v3.0 - 58 ROS2 Services",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'No build step required for vanilla HTML'"
+  },
+  "keywords": ["ros2", "humanoid", "meta", "facebook"],
+  "author": "Alana Battaile",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
